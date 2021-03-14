@@ -6,6 +6,6 @@
 pip install colorama
 python main.py
 ```
-Enjoy
+
 ![Views](https://i.ibb.co/V2ZY60q/fds.png)
 ![Views](https://i.ibb.co/YBfNdQn/Capture.png)
